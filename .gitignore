@@ -1,0 +1,4 @@
+.sass-cache/
+static/css/
+static/bower_components/
+*.pyc

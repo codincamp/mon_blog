@@ -1,0 +1,22 @@
+{
+  "name": "Còdiblog",
+  "homepage": "https://github.com/codincamp/mon_blog",
+  "authors": [
+    "Alban Tiberghien <alban.tiberghien@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "static/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2"
+  }
+}
