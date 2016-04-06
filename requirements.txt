@@ -1,2 +1,5 @@
 Flask==0.10.1
+Flask-Admin==1.4.0
+Flask-Login==0.3.2
 Flask-SQLAlchemy==2.1
+python-slugify==1.2.0
